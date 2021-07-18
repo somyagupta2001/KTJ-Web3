@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/KTJ-Web3/static/css/main.cb99dc91.chunk.css",
+    "main.js": "/KTJ-Web3/static/js/main.bb4e54cd.chunk.js",
+    "main.js.map": "/KTJ-Web3/static/js/main.bb4e54cd.chunk.js.map",
+    "runtime-main.js": "/KTJ-Web3/static/js/runtime-main.00dae55a.js",
+    "runtime-main.js.map": "/KTJ-Web3/static/js/runtime-main.00dae55a.js.map",
+    "static/js/2.ec58d5dc.chunk.js": "/KTJ-Web3/static/js/2.ec58d5dc.chunk.js",
+    "static/js/2.ec58d5dc.chunk.js.map": "/KTJ-Web3/static/js/2.ec58d5dc.chunk.js.map",
+    "static/js/3.2f198430.chunk.js": "/KTJ-Web3/static/js/3.2f198430.chunk.js",
+    "static/js/3.2f198430.chunk.js.map": "/KTJ-Web3/static/js/3.2f198430.chunk.js.map",
+    "index.html": "/KTJ-Web3/index.html",
+    "static/css/main.cb99dc91.chunk.css.map": "/KTJ-Web3/static/css/main.cb99dc91.chunk.css.map",
+    "static/js/2.ec58d5dc.chunk.js.LICENSE.txt": "/KTJ-Web3/static/js/2.ec58d5dc.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/KTJ-Web3/static/media/bg1.2a1f74ba.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.00dae55a.js",
+    "static/js/2.ec58d5dc.chunk.js",
+    "static/css/main.cb99dc91.chunk.css",
+    "static/js/main.bb4e54cd.chunk.js"
+  ]
+}
