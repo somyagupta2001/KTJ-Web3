@@ -1,0 +1,129 @@
+.postField, .container{
+    text-align: center;
+    display: inline-block;
+    flex-direction: column;
+    border: #334747 0.2rem solid 0.5rem;
+    margin: 2rem auto;
+    padding: 2rem;
+    width: 60%;
+    background-color: #F78888;
+    border-radius: 3rem;
+    font-size: 2rem;
+}
+
+.control-form{
+    font-size: 2rem;
+    list-style-type: none;
+}
+
+.control-form li{
+    padding-bottom: 2rem;
+    color: #334747;
+    color: white;
+    margin: auto;
+}
+
+input[type=text]{
+    border: 0.3rem solid white;
+    border-radius: 0.4rem;
+    color: #334747b9;
+    padding: 0.35rem;
+    opacity: 80%;
+}
+
+.post-field{
+    height: 5rem;
+    width: 60%;
+}
+
+input:focus, textarea:focus{
+    outline: none;
+    opacity: 100%;
+    background-color: rgba(255, 255, 255, 0.600);
+}
+
+img:hover{
+    cursor: pointer;
+}
+
+.post-btn{
+    border: 0.5rem solid white;
+    border-radius: 0.4rem;
+    background-color: #F78888;
+    color: white;
+    font-weight: bold;
+    width: 10rem;
+    height: 5rem;
+    opacity: 100%;
+}
+
+.post-btn:hover{
+    border: 0.5rem solid #9aa1a1;
+    background-color: white;
+    color: #9aa1a1;
+    opacity: 90%;
+}
+
+.post-btn:active{
+    border: 0.5rem solid #737979;
+    background-color: white;
+    color: #737979;
+    padding: 0.4rem;
+}
+
+.msg{
+    font-size: 2rem;
+    background-color: rgba(144, 204, 244, 0.50);
+}
+
+.success{
+    color: rgb(3, 145, 3);
+}
+
+.error{
+    color: rgb(145, 20, 3);
+}
+
+.post-head{
+    font-family: 'Staatliches', cursive;
+    font-weight: 300;
+}
+
+.post{
+    border: #334747 0.2rem solid 0.5rem;
+    margin: 2rem auto;
+    padding: 2rem;
+    width: 80%;
+    background-color: rgba(255, 255, 255, 0.4);
+    border-radius: 1.5rem;
+    font-size: 2.5rem;
+    text-align: justify;
+}
+
+.user{
+    text-align: left;
+    margin: 1rem 0;
+    font-size: 2rem;
+}
+
+.header-btns{
+    float: right;
+}
+
+.header-btns img{
+    margin: 0.5rem;
+}
+
+.footer-btns{
+    display: flex;
+}
+
+.footer-btns div{
+    margin: 1rem 3rem 0.5rem 1.5rem;
+    font-size: 2rem;
+}
+
+.footer-btns img{
+    height: 2rem;
+}
+
