@@ -28,7 +28,7 @@ input[type=text]{
     border-radius: 0.4rem;
     color: #334747b9;
     padding: 0.35rem;
-    opacity: 80%;
+    opacity: 0.8;
 }
 
 .post-field{
@@ -38,7 +38,7 @@ input[type=text]{
 
 input:focus, textarea:focus{
     outline: none;
-    opacity: 100%;
+    opacity: 1.0;
     background-color: rgba(255, 255, 255, 0.600);
 }
 
@@ -54,14 +54,14 @@ img:hover{
     font-weight: bold;
     width: 10rem;
     height: 5rem;
-    opacity: 100%;
+    opacity: 1.0;
 }
 
 .post-btn:hover{
     border: 0.5rem solid #9aa1a1;
     background-color: white;
     color: #9aa1a1;
-    opacity: 90%;
+    opacity: 0.9;
 }
 
 .post-btn:active{
